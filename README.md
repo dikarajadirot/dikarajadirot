@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=dikarajadirot&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=tidak%20minat%20coding.%20tapi%20di%20sini%20terus.&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=dikarajadirot&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=.%.&descAlignY=55&descSize=16" width="100%"/>
 
 <br>
 
