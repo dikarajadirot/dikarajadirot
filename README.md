@@ -42,10 +42,10 @@ Just mas-mas biasa yang sesekali nge commit.
 
 <div align="center">
 
-<img src="https://github-readme-stats-d7-ac10.vercel.app/api?username=dikarajadirot&show_icons=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats-d7-ac10.vercel.app/api/top-langs/?username=dikarajadirot&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=e94560&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats-d7-ac10.vercel.app/api?username=dikarajadirot&cache_bypass=1&show_icons=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats-d7-ac10.vercel.app/api/top-langs/?username=dikarajadirot&cache_bypass=1&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=e94560&text_color=c9d1d9" height="165"/>
 
-<img src="https://github-readme-streak-stats-alpha-swart.vercel.app/?user=dikarajadirot&hide_border=true&theme=radical&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560" height="165"/>
+<img src="https://github-readme-streak-stats-alpha-swart.vercel.app/?user=dikarajadirot&cache_bypass=1&hide_border=true&theme=radical&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560" height="165"/>
 
 </div>
 
