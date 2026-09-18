@@ -15,10 +15,8 @@
 ## `>` tentang
 
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=E94560&center=false&vCenter=true&width=440&lines=sebenarnya+lagi+males;tapi+profil+ini+harus+ada+isinya;jadi+ya+begini" width="440"/>
-
-Bukan developer yang produktif. Bukan juga yang rajin push tiap hari.
-Cuma orang yang punya akun GitHub karena disuruh punya, terus lama-lama
-betah nongkrong di sini.
+ 
+Just mas-mas biasa yang sesekali nge commit.
 
 <br clear="right"/>
 
@@ -28,18 +26,19 @@ betah nongkrong di sini.
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=02569B)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=E94560)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 
-<sub>skala penguasaan: "pernah pakai" sampai "googling tiap baris"</sub>
+<sub>skala penguasaan: "cuma pernah pake"</sub>
 
 </div>
 
 ---
 
-## `>` statistik (yang ini asli, bukan bercanda)
+## `>` statistik (statistik ceunah)
 
 <div align="center">
 
@@ -69,10 +68,10 @@ betah nongkrong di sini.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=E94560)](mailto:emailkamu@mail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E94560)](https://linkedin.com/in/username-kamu)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=E94560)](mailto:andikadwiki32@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E94560)](https://github.com/dikarajadirot)
 
-<sub>respon lambat, tapi pasti dibaca</sub>
+<sub></sub>
 
 </div>
 
