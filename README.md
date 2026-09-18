@@ -1,19 +1,21 @@
 <div align="center">
-<br><br>
 
-`⌁`
+<br><br><br>
+
+# •
 
 <br>
 
 **dikarajadirot**
 
-<sub> kosong </sub>
+<br>
 
-<br><br>
-</div>
+<sub>saya di sini. itu saja.</sub>
 
----
+<br><br><br>
 
-<div align="center">
-<sub>kosong</sub>
+<sub><a href="mailto:emailkamu@mail.com">kontak</a></sub>
+
+<br><br><br>
+
 </div>
