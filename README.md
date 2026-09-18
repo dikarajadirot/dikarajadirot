@@ -58,7 +58,7 @@ Just mas-mas biasa yang sesekali nge commit.
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<sub>bagian di atas kosong sampai kamu aktifin GitHub Action-nya (lihat catatan di bawah)</sub>
+<sub>Slow Living</sub>
 
 </div>
 
