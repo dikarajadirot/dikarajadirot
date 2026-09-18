@@ -4,15 +4,15 @@
 
 <br>
 
-![Status](https://img.shields.io/badge/STATUS-online%20tapi%20males-1a1a2e?style=for-the-badge&labelColor=000000)
-![Mood](https://img.shields.io/badge/MOOD-santai-16213e?style=for-the-badge&labelColor=000000)
-![Interest](https://img.shields.io/badge/MINAT%20CODING-rendah-e94560?style=for-the-badge&labelColor=000000)
+![Status](https://img.shields.io/badge/STATUS-online%20tapi%20TIDUR-1a1a2e?style=for-the-badge&labelColor=000000)
+![Mood](https://img.shields.io/badge/MOOD-CHILL-16213e?style=for-the-badge&labelColor=000000)
+
 
 </div>
 
 <br>
 
-## `>` tentang
+## `>` ABOUT ME
 
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=E94560&center=false&vCenter=true&width=440&lines=sebenarnya+lagi+males;tapi+profil+ini+harus+ada+isinya;jadi+ya+begini" width="440"/>
  
@@ -22,7 +22,7 @@ Just mas-mas biasa yang sesekali nge commit.
 
 ---
 
-## `>` pernah belajar
+## `>` PERNAH BELAJAR
 
 <div align="center">
 
@@ -38,7 +38,7 @@ Just mas-mas biasa yang sesekali nge commit.
 
 ---
 
-## `>` STEREAKKKK
+## `>` STREAKKKK
 
 <div align="center">
 
@@ -51,7 +51,7 @@ Just mas-mas biasa yang sesekali nge commit.
 
 ---
 
-## `>` aktivitas belakangan
+## `>` CURRENT ACTIVITIES
 
 <div align="center">
 
