@@ -22,7 +22,7 @@ Just mas-mas biasa yang sesekali nge commit.
 
 ---
 
-## `>` yang (katanya) dikuasai
+## `>` pernah belajar
 
 <div align="center">
 
@@ -38,7 +38,7 @@ Just mas-mas biasa yang sesekali nge commit.
 
 ---
 
-## `>` statistik (statistik ceunah)
+## `>` STEREAKKKK
 
 <div align="center">
 
