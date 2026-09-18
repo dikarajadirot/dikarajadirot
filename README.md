@@ -64,7 +64,7 @@ Just mas-mas biasa yang sesekali nge commit.
 
 ---
 
-## `>` kontak
+## `>` CONTACT
 
 <div align="center">
 
