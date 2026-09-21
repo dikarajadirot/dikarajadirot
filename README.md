@@ -45,7 +45,6 @@ Just mas-mas biasa yang sesekali nge commit
 <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/PHP/Alya_holding_PHP_book.jpg" width="400" alt="anime girl holding programming book"/>
 
 </div>
-
 ---
 
 ## `>` CURRENT ACTIVITIES
