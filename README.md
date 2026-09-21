@@ -42,7 +42,7 @@ Just mas-mas biasa yang sesekali nge commit
 
 <div align="center">
 
-<img src="https://api.devgoldy.xyz/aghpb/v1/random?category=c++" width="400" alt="anime girl holding programming book"/>
+<img src="https://api.devgoldy.xyz/aghpb/v1/random" width="400" alt="anime girl holding programming book"/>
 
 </div>
 
