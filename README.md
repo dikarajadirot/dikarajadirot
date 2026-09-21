@@ -42,7 +42,7 @@ Just mas-mas biasa yang sesekali nge commit
 
 <div align="center">
 
-<img height="220" src="https://media.tenor.com/eSuuGVeSKtoAAAAM/anime-coding.gif" alt="anime coding gif"/>
+<img src="https://api.devgoldy.xyz/aghpb/v1/random?category=c++" width="400" alt="anime girl holding programming book"/>
 
 </div>
 
