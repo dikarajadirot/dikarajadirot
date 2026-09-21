@@ -38,11 +38,11 @@ Just mas-mas biasa yang sesekali nge commit
 
 ---
 
-## `>` STREAKKKK
+## `>` LAGI NGAPAIN
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dikarajadirot/dikarajadirot/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+<img height="220" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="anime coding gif"/>
 
 </div>
 
