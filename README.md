@@ -42,7 +42,7 @@ Just mas-mas biasa yang sesekali nge commit
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/h2NxCschQ81ltiL9HV/giphy.gif" width="400" alt="messi"/>
+<img src="https://raw.githubusercontent.com/dikarajadirot/dikarajadirot/main/giphy.gif" width="400" alt="messi"/>
 
 </div>
 
