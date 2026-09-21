@@ -38,13 +38,14 @@ Just mas-mas biasa yang sesekali nge commit
 
 ---
 
-## `>` LAGI NGAPAIN
+## `>` MY GOATTTTT
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/PHP/Alya_holding_PHP_book.jpg" width="400" alt="anime girl holding programming book"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxncmp0cDQzMXFreGljdGhpbGNxYmcwZG5zZ3JmOG1zY2I4ODg5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h2NxCschQ81ltiL9HV/giphy.gif" width="400" alt="messi"/>
 
 </div>
+
 ---
 
 ## `>` CURRENT ACTIVITIES
