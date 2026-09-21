@@ -16,7 +16,7 @@
 
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=E94560&center=false&vCenter=true&width=440&lines=sebenarnya+lagi+males;tapi+profil+ini+harus+ada+isinya;jadi+ya+begini" width="440"/>
  
-Just mas-mas biasa yang sesekali nge commit.
+Just mas-mas biasa yang sesekali nge commit
 
 <br clear="right"/>
 
