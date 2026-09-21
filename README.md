@@ -42,7 +42,7 @@ Just mas-mas biasa yang sesekali nge commit
 
 <div align="center">
 
-<img height="220" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="anime coding gif"/>
+<img height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="anime coding gif"/>
 
 </div>
 
