@@ -1,0 +1,27 @@
+name: 3D Profile Contribution
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.9.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git add -f profile-3d-contrib/*.svg
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git commit -m "generate profile 3d contribution svg" || echo "no changes to commit"
+          git branch -D profile-3d-contrib || true
+          git checkout -b profile-3d-contrib
+          git push origin profile-3d-contrib -f
