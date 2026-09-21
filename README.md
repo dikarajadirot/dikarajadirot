@@ -42,7 +42,7 @@ Just mas-mas biasa yang sesekali nge commit
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dikarajadirot/dikarajadirot/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/dikarajadirot/dikarajadirot/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 
 </div>
 
