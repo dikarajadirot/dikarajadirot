@@ -42,7 +42,7 @@ Just mas-mas biasa yang sesekali nge commit
 
 <div align="center">
 
-<img height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="anime coding gif"/>
+<img height="220" src="https://media.tenor.com/eSuuGVeSKtoAAAAM/anime-coding.gif" alt="anime coding gif"/>
 
 </div>
 
